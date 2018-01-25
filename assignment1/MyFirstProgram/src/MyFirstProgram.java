@@ -1,3 +1,13 @@
+/**
+ * CS 5000/W01
+Spring 2018
+Nikko Terry
+Dr. Hisham Haddad
+Assignment 0/MyFirstProgram
+ */
+
+
+
 
 public class MyFirstProgram {
 
