@@ -1,10 +1,11 @@
 import java.util.Scanner;
 
-/**CS 5000/W01
+/*CS 5000/W01
+/*Assignment1a/src/HelloWorld.java**CS 5000/W01
  * Spring 2018
  * Nikko Terry
  * Dr. Haddad
- * Assignment 1
+ * Assignment 1/Program 1
  * 
  */
 
@@ -25,4 +26,13 @@ public class HelloWorld {
 		 System.out.println("Hello " + name + "!");
 	}
 
-}
+
+
+
+				
+
+	
+	
+	
+	
+	
