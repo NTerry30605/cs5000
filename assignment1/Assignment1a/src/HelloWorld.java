@@ -25,5 +25,6 @@ public class HelloWorld {
 		System.out.print("Please enter your name: ");
 		String name = s.nextLine();
 		System.out.println("Hello " + name + "!");
+		s.close();
 	}
 }
